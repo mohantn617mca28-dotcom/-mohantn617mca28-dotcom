@@ -36,15 +36,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- REPLACE "REPLACE_USERNAME" WITH YOUR GITHUB USERNAME -->
-  <img src="https://github-readme-stats.vercel.app/api?username=REPLACE_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&animation=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=REPLACE_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohan-k-nov8&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&animation=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohan-k-nov8&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REPLACE_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&animation=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan-k-nov8&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&animation=true" width="50%" />
 </div>
 
 <p align="center">
@@ -54,7 +53,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=REPLACE_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohan-k-nov8&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </p>
 
 <p align="center">
@@ -64,7 +63,7 @@
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=REPLACE_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohan-k-nov8&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 <p align="center">
@@ -73,9 +72,8 @@
 
 ## 🐍 Contribution Snake
 
-<!-- NOTE: This requires the GitHub Action "github-contribution-grid-snake" by Platane/snk -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/REPLACE_USERNAME/REPLACE_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/mohan-k-nov8/mohan-k-nov8/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
@@ -88,16 +86,16 @@
   <a href="https://mohan-k-nov8.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/REPLACE_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/REPLACE_TWITTER" target="_blank">
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="mailto:mohantn617@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/REPLACE_INSTAGRAM" target="_blank">
+  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -109,7 +107,7 @@
 ## 👁️ Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=REPLACE_USERNAME&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=mohan-k-nov8&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
 </p>
 
 <h3 align="center">
