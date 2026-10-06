@@ -3,12 +3,16 @@
 </h1>
 
 <p align="center">
+  <img src="https://komarev.com/gh-pvc/?username=MohanK-2026&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
 ## 🌐 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I'm currently working on **Web Development Projects**
 - 🌱 I'm currently learning **Advanced Full Stack Technologies**
@@ -18,6 +22,8 @@
 - ⚡ Fun fact: **I turn coffee into code ☕➡️💻**
 
 <br clear="both">
+
+---
 
 ### 📊 My LeetCode Stats
 
