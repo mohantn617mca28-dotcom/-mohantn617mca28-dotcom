@@ -18,3 +18,7 @@
 - ⚡ Fun fact: **I turn coffee into code ☕➡️💻**
 
 <br clear="both">
+
+### 📊 My LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
