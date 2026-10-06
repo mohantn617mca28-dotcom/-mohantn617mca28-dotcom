@@ -21,4 +21,8 @@
 
 ### 📊 My LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=source_code_pro&ext=heatmap)]([https://leetcode.com/YOUR_LEETCODE_USERNAME](https://leetcode.com/u/MohanK_2026/))
+<p align="center">
+  <a href="https://leetcode.com/u/MohanK_2026/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/MohanK_2026?theme=dark&font=source_code_pro&ext=heatmap" alt="Mohan K's LeetCode Stats" />
+  </a>
+</p>
