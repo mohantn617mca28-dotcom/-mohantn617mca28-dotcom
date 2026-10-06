@@ -25,10 +25,55 @@
 
 ---
 
-### 📊 My LeetCode Stats
+## 🧩 LeetCode Stats & Activity
 
 <p align="center">
-  <a href="https://leetcode.com/u/MohanK_2026/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/MohanK_2026?theme=dark&font=source_code_pro&ext=heatmap" alt="Mohan K's LeetCode Stats" />
+  <a href="https://leetcode.com/u/MohanK_2026/">
+    <img src="https://leetcard.jacoblin.cool/MohanK_2026?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/MohanK_2026/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile_View-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+  </a>
+</p>
+
+---
+
+## 💡 Featured LeetCode Solutions
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+<!-- ================= PROBLEM 1 ================= -->
+<details>
+<summary><b>🟢 0001. Two Sum (Easy)</b></summary>
+
+<br>
+
+<details>
+<summary><b>🔵 C Solution</b></summary>
+
+```c
+#include <stdlib.h>
+
+int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
+    *returnSize = 2;
+    int* result = (int*)malloc(2 * sizeof(int));
+    for (int i = 0; i < numsSize; i++) {
+        for (int j = i + 1; j < numsSize; j++) {
+            if (nums[i] + nums[j] == target) {
+                result[0] = i;
+                result[1] = j;
+                return result;
+            }
+        }
+    }
+    *returnSize = 0;
+    return NULL;
+}
